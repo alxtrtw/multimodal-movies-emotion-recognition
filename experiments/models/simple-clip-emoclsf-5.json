@@ -1,0 +1,1 @@
+{"n_epochs": 50, "batch_size": 128, "n_batches": 62, "optimizer": {"name": "SGD", "lr": 0.005, "momentum": 0.9}, "criterion": "CrossEntropyLoss", "weights": [1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0], "regularization": "dropout 0.2"}

@@ -1,0 +1,1 @@
+{"n_epochs": 50, "batch_size": 64, "n_batches": 124, "optimizer": {"name": "SGD", "lr": 0.003, "momentum": 0.9}, "criterion": "CrossEntropyLoss"}
