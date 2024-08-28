@@ -1,0 +1,1 @@
+{"n_epochs": 50, "batch_size": 256, "n_batches": 42, "optimizer": {"name": "Adam", "lr": 5e-05}, "criterion": "CrossEntropyLoss", "weights": [1.0, 1.0, 1.0, 1.0, 0.7, 1.0, 1.0], "regularization": "dropout 0.2"}
